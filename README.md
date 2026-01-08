@@ -12,6 +12,15 @@ Telco Customer Churn dataset (public dataset).
 - notebooks/: main analysis notebook
 - src/: helper preprocessing and modeling functions
 
+## Exploratory Data Analysis
+
+### Customer Churn Distribution
+![Customer Churn Distribution](https://raw.githubusercontent.com/kunledollar/customer-churn-prediction/main/images/churn_distribution.png)
+
+### Tenure vs Churn
+![Tenure vs Churn](https://raw.githubusercontent.com/kunledollar/customer-churn-prediction/main/images/tenure_vs_churn.png)
+
+
 ## Approach
 - Data loading and cleaning
 - Feature engineering
