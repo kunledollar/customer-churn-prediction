@@ -15,10 +15,11 @@ Telco Customer Churn dataset (public dataset).
 ## Exploratory Data Analysis
 
 ### Customer Churn Distribution
-![Customer Churn Distribution](images/churn_distribution.png)
+![Customer Churn Distribution](https://raw.githubusercontent.com/kunledollar/customer-churn-prediction/main/images/churn_distribution.png)
 
 ### Tenure vs Churn
-![Tenure vs Churn](images/tenure_vs_churn.png)
+![Tenure vs Churn](https://raw.githubusercontent.com/kunledollar/customer-churn-prediction/main/images/tenure_vs_churn.png)
+
 
 ## Approach
 - Data loading and cleaning
