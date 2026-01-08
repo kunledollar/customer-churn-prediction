@@ -32,6 +32,11 @@ Telco Customer Churn dataset (public dataset).
 
 ## Evaluation Metric
 - ROC-AUC
+  
+## Results
+- The Random Forest model outperformed the Logistic Regression baseline.
+- ROC-AUC was used as the primary evaluation metric to handle class imbalance.
+- Customer tenure emerged as a strong indicator of churn risk.
 
 ## Tools
 Python, Pandas, NumPy, scikit-learn, Jupyter Notebook
